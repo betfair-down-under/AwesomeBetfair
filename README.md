@@ -2,8 +2,8 @@
 A curated list of awesome tools, frameworks and libraries in the Betfair space.
 
 If you have a project you feel would benefit the community please submit a pull request.  
-
 <br>
+
 Betfair API sample code
 ------
 
@@ -44,15 +44,15 @@ Betfair API sample code
 
 ### VBA
 - [API-NG code samples](https://github.com/betfair/API-NG-sample-code): basic sample code for interacting with the polling APIs   
-
 <br>
+
 Historic Betfair Data
 ------
 
 ### JSON Stream data
 - [BetfairLightweight](https://github.com/liampauling/betfair): includes library for working with historic data files
-
 <br>
+
 Modelling
 ------
 
