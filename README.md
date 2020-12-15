@@ -4,7 +4,7 @@ A curated list of awesome tools, frameworks and libraries in the Betfair space.
 If you have a project you feel would benefit the community please submit a pull request.  
 <br>
 
-Betfair API sample code
+Betfair API libraries & sample code
 ------
 
 ### Java
