@@ -50,7 +50,8 @@ Historic Betfair Data
 ------
 
 ### JSON Stream data
-- [BetfairLightweight](https://github.com/liampauling/betfair): includes library for working with historic data files
+- [BetfairLightweight](https://github.com/liampauling/betfair): includes Python library for working with historic data files
+- [Betfair History Stream Extractor](https://github.com/saeh/betfairhistorystreamextractor): basic Python script to scan bz2 file and extract the price at a particular time
 <br>
 
 Modelling
